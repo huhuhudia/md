@@ -1,0 +1,4 @@
+```shell
+nohup xxx &
+exit
+```
